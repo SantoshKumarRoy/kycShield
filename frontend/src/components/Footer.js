@@ -9,7 +9,7 @@ export default function Footer() {
         This is project done by Lalit,Santosh and Sumit , Department of Computer Science, University of Delhi  
       </div>
       <div className='text-white text-bold text-center'>
-        For more details goto <a className="text-red-400 font-mono hover:underline p-1" href='https://www.github.com/khulalit'>Github</a>
+        For more details goto <a className="text-red-400 font-mono hover:underline p-1" href='https://github.com/SantoshKumarRoy'>Github</a>
       </div>
     </div>
   )
